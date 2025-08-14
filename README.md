@@ -1,1 +1,0 @@
-A roulette game is to randomly choose a option for you, for example, if you wanna give a gift for your partner or friend, you can ask them to input the gifts they would like to have, and then using this web to get one for them.
